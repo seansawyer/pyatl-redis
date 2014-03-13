@@ -1,4 +1,4 @@
 pyatl-redis
 ===========
 
-Examples from a talk at PyATL
+Examples from a talk at PyATL.
